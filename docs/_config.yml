@@ -15,12 +15,12 @@ author:
 
   username: nemathahmed
   email: nemath.ahmed14@email.com
-  avatar: /colab-Nemath_Ahmed/assets/img/avatar.jpg
+  avatar:  /colab-Nemath_Ahmed/assets/img/avatar.jpg
 
 # Url settings
 url: "https://theroboticsclub.github.io"
 baseurl: "/colab-Nemath_Ahmed"
-# permalink: /:title/
+permalink: /:title/
 google_analytics: UA-167199833-1
 fb_appid:
 
