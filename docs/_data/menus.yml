@@ -1,0 +1,16 @@
+- title: Home
+  url: /
+  external: false
+
+- title: About
+  url: 'https://nemathahmed.github.io'
+  external: true
+
+- title: JdeRobot
+  url: 'https://jderobot.github.io'
+  external: true # set true if you using external link, see bellow
+
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true
